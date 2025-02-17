@@ -23,7 +23,7 @@ public class A1_Q7 {
                 System.err.println("Invalid operator");
 
         }
-        System.err.println("The result is "+result);
+        System.out.println("The result is "+result);
 
 
     }else{
